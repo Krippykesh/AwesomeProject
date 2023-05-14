@@ -1,0 +1,1 @@
+I just want to showcase that i have been covering the basics of react native and successfully created my first App through Guidance of Youtube Channel Sangam Mukherjee. This app just add your text prompt and views the list of text and shows the random list of API Users. #first to the key
